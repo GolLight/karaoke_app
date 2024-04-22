@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 25px 15px;
+}
+
+nav h1 {
+    margin: 0;
+    color: white;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+.message-container {
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
