@@ -34,7 +34,7 @@ A web application that automatically generates karaoke videos from music files. 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/saianish03/karaoke_app
 cd karaoke-generator
 ```
 
